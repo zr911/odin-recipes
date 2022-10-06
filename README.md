@@ -1,3 +1,3 @@
 # odin-recipes
 TOP
-Practice HTML knowledge and build a basic recipe website
+Practice HTML knowledge by building a basic recipe website
